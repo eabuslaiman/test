@@ -1,4 +1,4 @@
 <?php
-	echo "Asi es como se hace!";
+	echo "Index page";
 	die;
 ?>
